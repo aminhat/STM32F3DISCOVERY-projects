@@ -1,0 +1,16 @@
+../Core/Src/main.c:418:6:PWM_Start	1
+../Core/Src/main.c:423:6:PWM_Change_Tone	13
+../Core/Src/main.c:444:6:Change_Melody	1
+../Core/Src/main.c:451:6:Update_Melody	3
+../Core/Src/main.c:467:9:strcmpwithlength	3
+../Core/Src/main.c:495:6:display_digit	16
+../Core/Src/main.c:516:6:HAL_TIM_PeriodElapsedCallback	2
+../Core/Src/main.c:685:5:main	1
+../Core/Src/main.c:743:6:SystemClock_Config	4
+../Core/Src/main.c:794:13:MX_I2C1_Init	4
+../Core/Src/main.c:842:13:MX_SPI1_Init	2
+../Core/Src/main.c:882:13:MX_TIM2_Init	6
+../Core/Src/main.c:941:13:MX_USART1_UART_Init	2
+../Core/Src/main.c:976:13:MX_USB_PCD_Init	2
+../Core/Src/main.c:1007:13:MX_GPIO_Init	1
+../Core/Src/main.c:1086:6:Error_Handler	1
